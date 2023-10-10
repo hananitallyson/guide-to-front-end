@@ -2,10 +2,10 @@
 
 ## How does the Internet works?
 ### Articles and Documentation
-[How does internet work - cs.fyi](https://cs.fyi/guide/how-does-internet-work)
-[How does the Internet work? - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
-[How the web works - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-[What is internet - roadmap](https://roadmap.sh/guides/what-is-internet)
+- [How does internet work - cs.fyi](https://cs.fyi/guide/how-does-internet-work)
+- [How does the Internet work? - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
+- [How the web works - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+- [What is internet - roadmap](https://roadmap.sh/guides/what-is-internet)
 
 ### Videos
 - [How Does the Internet Work? - Glad You Asked S1](https://youtu.be/TNQsmPf24go)
