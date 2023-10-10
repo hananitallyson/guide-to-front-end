@@ -26,6 +26,8 @@
 - [HTTP — an Application-Level Protocol - Karl Dubost](https://dev.opera.com/articles/http-basic-introduction/)
 - [HTTP: Let’s GET It On! - Karl Dubost](https://dev.opera.com/articles/http-lets-get-it-on/)
 - [HTTP: Response Codes - Karl Dubost](https://dev.opera.com/articles/http-response-codes/)
+- [HTTP and Statelessness - Jaimie Nguyen](https://medium.com/@jaimietn/http-and-statelessness-5e290fec80c0)
 
 ### Videos
 - [HTTP Crash Course & Exploration - Traversy Media](https://youtu.be/iYM2zFP3Zn0)
+- [What are HTTP requests? - Codecademy](https://youtu.be/-Zea7GB2OwA)
