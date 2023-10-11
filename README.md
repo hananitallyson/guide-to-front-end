@@ -6,12 +6,16 @@
 - [How does the Internet work? - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 - [How the web works - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 - [What is internet - roadmap](https://roadmap.sh/guides/what-is-internet)
+- [What is Acknowledgement? - Wiki](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks))
 
 ### Videos
+- [What is the internet? - Code.org](https://youtu.be/Dxcc6ycZ73M)
 - [How Does the Internet Work? - Glad You Asked S1](https://youtu.be/TNQsmPf24go)
 - [How the Internet Works in 5 Minutes - Aaron](https://youtu.be/7_LPdttKXPc)
 - [How does the Internet Work? Networks and addresses explained. - Basics Explained, H3Vtux](https://youtu.be/82m2du-zgmY)
-
+- [The Internet: Wires, Cables, and Wi-Fi - Code.org](https://youtu.be/ZhEf7e4kopM)
+- [IP Addresses and DNS - Code.org](https://youtu.be/5o8CwafCxnU)
+- [The Internet: Packets, Routing & Reliability - Code.org](https://youtu.be/AYdF7b3nMto)
 
 ## What is HTTP?
 ### Articles and Documentation
