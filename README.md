@@ -8,6 +8,8 @@
 - [What is internet - roadmap](https://roadmap.sh/guides/what-is-internet)
 - [What is Acknowledgement? - Wiki](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks))
 - [Transport Layer Security (TLS) - MDN](https://developer.mozilla.org/en-US/docs/Glossary/TLS)
+- [Client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+- [Handshake (computing) - Wiki](https://en.wikipedia.org/wiki/Handshake_(computing))
 
 ### Videos
 - [What is the internet? - Code.org](https://youtu.be/Dxcc6ycZ73M)
