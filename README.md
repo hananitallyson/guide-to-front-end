@@ -37,3 +37,11 @@
 ### Videos
 - [HTTP Crash Course & Exploration - Traversy Media](https://youtu.be/iYM2zFP3Zn0)
 - [What are HTTP requests? - Codecademy](https://youtu.be/-Zea7GB2OwA)
+
+## What is Domain Name and DNS?
+### Articles and Documentation
+- [What is a Domain Name? - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name) 
+- [What is a Domain Name? - Cloudflare](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
+
+### Videos
+- [What is a Domain Name? - A Beginners Guide to How Domain Names Work! - Create a Pro Website](https://youtu.be/Y4cRx19nhJk)
