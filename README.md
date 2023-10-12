@@ -7,6 +7,7 @@
 - [How the web works - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 - [What is internet - roadmap](https://roadmap.sh/guides/what-is-internet)
 - [What is Acknowledgement? - Wiki](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks))
+- [Transport Layer Security (TLS) - MDN](https://developer.mozilla.org/en-US/docs/Glossary/TLS)
 
 ### Videos
 - [What is the internet? - Code.org](https://youtu.be/Dxcc6ycZ73M)
@@ -15,13 +16,14 @@
 - [How does the Internet Work? Networks and addresses explained. - Basics Explained, H3Vtux](https://youtu.be/82m2du-zgmY)
 - [The Internet: Wires, Cables, and Wi-Fi - Code.org](https://youtu.be/ZhEf7e4kopM)
 - [IP Addresses and DNS - Code.org](https://youtu.be/5o8CwafCxnU)
+- [URIs, URLs, and URNs | Difference between URI and URL | URL Explained - The TechCave](https://youtu.be/vpYct2npKD8)
 - [The Internet: Packets, Routing & Reliability - Code.org](https://youtu.be/AYdF7b3nMto)
+- [The Internet: HTTP & HTML](https://youtu.be/kBXQZMmiA4s)
 
 ## What is HTTP?
 ### Articles and Documentation
 - [Everything you need to know about HTTP - cs.fyi](https://cs.fyi/guide/http-in-depth)
 - [What is HTTP? - Cloudflare](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- [How HTTPS works ...in a comic! - How HTTP. Work](https://howhttps.works/)
 - [HTTP Overview - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - [HTTP/3 From A To Z: Core Concepts PART 1 - Robin Marx](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
 - [HTTP/3 From A To Z: Core Concepts PART 2 - Robin Marx](https://www.smashingmagazine.com/2021/08/http3-performance-improvements-part2/)
