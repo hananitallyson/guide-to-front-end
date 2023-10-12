@@ -33,6 +33,7 @@
 - [HTTP: Let’s GET It On! - Karl Dubost](https://dev.opera.com/articles/http-lets-get-it-on/)
 - [HTTP: Response Codes - Karl Dubost](https://dev.opera.com/articles/http-response-codes/)
 - [HTTP and Statelessness - Jaimie Nguyen](https://medium.com/@jaimietn/http-and-statelessness-5e290fec80c0)
+- [Request-response - Wiki](https://en.wikipedia.org/wiki/Request%E2%80%93response)
 
 ### Videos
 - [HTTP Crash Course & Exploration - Traversy Media](https://youtu.be/iYM2zFP3Zn0)
