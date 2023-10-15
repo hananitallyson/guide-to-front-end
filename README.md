@@ -36,6 +36,7 @@
 - [HTTP: Response Codes - Karl Dubost](https://dev.opera.com/articles/http-response-codes/)
 - [HTTP and Statelessness - Jaimie Nguyen](https://medium.com/@jaimietn/http-and-statelessness-5e290fec80c0)
 - [Request-response - Wiki](https://en.wikipedia.org/wiki/Request%E2%80%93response)
+- [RFC 9000 QUIC: A UDP-Based Multiplexed and Secure Transport - J. Iyengar and M. Thomson](https://www.rfc-editor.org/rfc/rfc9000.html)
 
 ### Videos
 - [HTTP Crash Course & Exploration - Traversy Media](https://youtu.be/iYM2zFP3Zn0)
