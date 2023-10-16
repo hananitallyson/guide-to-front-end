@@ -1,4 +1,5 @@
 # guide-to-front-end
+Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento front-end. Aqui, eu reuno uma coleção de artigos, documentações e vídeos relacionados a diferentes tópicos que estou estudando. O objetivo é criar um recurso aberto para que outras pessoas possam aprender e revisar esses tópicos de forma mais organizada. Além de servir para mim mesmo como uma maneira de se motivar a ler e estudar mais sobre cada um desses assuntos.
 
 ## How does the Internet works?
 ### Articles and Documentation
