@@ -1,4 +1,6 @@
 # guide-to-front-end
+This documentation is a personal learning journey in front-end development. Here, I gather a collection of articles, documentation, and videos related to various topics I'm studying. The aim is to create an open resource for others to learn and review these topics in a more organized manner. Additionally, it serves as a motivation for me to read and study more about each of these subjects.
+
 Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento front-end. Aqui, eu reuno uma coleção de artigos, documentações e vídeos relacionados a diferentes tópicos que estou estudando. O objetivo é criar um recurso aberto para que outras pessoas possam aprender e revisar esses tópicos de forma mais organizada. Além de servir para mim mesmo como uma maneira de se motivar a ler e estudar mais sobre cada um desses assuntos.
 
 ## How does the Internet works?
