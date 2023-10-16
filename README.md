@@ -28,7 +28,7 @@ The internet is a global network of interconnected computers that communicate us
 - [The Internet: HTTP & HTML](https://youtu.be/kBXQZMmiA4s)
 
 ## What is HTTP?
-HTTP is an application layer protocol used for communication between clients and servers, following a client-server model. It's a stateless protocol, meaning servers don't retain information between requests.
+HTTP is an application layer protocol used for communication between clients and servers, following a client-server model. It's a stateless protocol, meaning servers don't retain information between requests. But it's not only this.
 
 ### Articles and Documentation
 - [Everything you need to know about HTTP - cs.fyi](https://cs.fyi/guide/http-in-depth)
