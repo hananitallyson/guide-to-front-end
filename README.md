@@ -4,6 +4,8 @@ This documentation is a personal learning journey in front-end development. Here
 Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento front-end. Aqui, eu reuno uma coleção de artigos, documentações e vídeos relacionados a diferentes tópicos que estou estudando. O objetivo é criar um recurso aberto para que outras pessoas possam aprender e revisar esses tópicos de forma mais organizada. Além de servir para mim mesmo como uma maneira de se motivar a ler e estudar mais sobre cada um desses assuntos.
 
 ## How does the Internet works?
+The internet is a global network of interconnected computers that communicate using standardized protocols.
+
 ### Articles and Documentation
 - [How does internet work - cs.fyi](https://cs.fyi/guide/how-does-internet-work)
 - [How does the Internet work? - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
@@ -26,6 +28,8 @@ Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento fro
 - [The Internet: HTTP & HTML](https://youtu.be/kBXQZMmiA4s)
 
 ## What is HTTP?
+HTTP is an application layer protocol used for communication between clients and servers, following a client-server model. It's a stateless protocol, meaning servers don't retain information between requests.
+
 ### Articles and Documentation
 - [Everything you need to know about HTTP - cs.fyi](https://cs.fyi/guide/http-in-depth)
 - [What is HTTP? - Cloudflare](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
@@ -46,6 +50,8 @@ Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento fro
 - [What are HTTP requests? - Codecademy](https://youtu.be/-Zea7GB2OwA)
 
 ## What is Domain Name and DNS?
+Domain names, like 'google.com' or 'facebook.com,' provide user-friendly access to websites. The Domain Name System (DNS) translates these names into IP addresses.
+
 ### Articles and Documentation
 - [What is a Domain Name? - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name) 
 - [What is a Domain Name? - Cloudflare](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
