@@ -59,3 +59,13 @@ Domain names, like 'google.com' or 'facebook.com,' provide user-friendly access 
 
 ### Videos
 - [What is a Domain Name? - A Beginners Guide to How Domain Names Work! - Create a Pro Website](https://youtu.be/Y4cRx19nhJk)
+
+## What it Hosting?
+
+### Articles and Documentation
+- [What is Web Hosting - Hostinger](https://www.hostinger.com/tutorials/what-is-web-hosting/)
+
+### Videos
+- [What Is Web Hosting? Explained - Pickaweb.co.uk](https://youtu.be/htbY9-yggB0)
+- [Different Types of Web Hosting Explained! | Shared Hosting vs. VPS Hosting vs. Dedicated Server - Craylor Made](https://youtu.be/AXVZYzw8geg)
+- [Where to Host a Fullstack Project on a Budget - Ben Awad](https://youtu.be/Kx_1NYYJS7Q)
