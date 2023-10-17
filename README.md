@@ -71,3 +71,13 @@ Domain names, like 'google.com' or 'facebook.com,' provide user-friendly access 
 - [What Is Web Hosting? Explained - Pickaweb.co.uk](https://youtu.be/htbY9-yggB0)
 - [Different Types of Web Hosting Explained! | Shared Hosting vs. VPS Hosting vs. Dedicated Server - Craylor Made](https://youtu.be/AXVZYzw8geg)
 - [Where to Host a Fullstack Project on a Budget - Ben Awad](https://youtu.be/Kx_1NYYJS7Q)
+
+## What is Browsers and How they work?
+
+### Articles and Documentation
+- [How browsers work - web.dev](https://web.dev/articles/howbrowserswork)
+- [https://www.browserstack.com/guide/browser-rendering-engine - BrowserStack](https://www.browserstack.com/guide/browser-rendering-engine)
+- [Populating the page: how browsers work - MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+
+### Videos
+- [How Do Web Browsers Work? - Dave Xiang](https://youtu.be/WjDrMKZWCt0)
