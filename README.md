@@ -56,9 +56,11 @@ Domain names, like 'google.com' or 'facebook.com,' provide user-friendly access 
 - [What is a Domain Name? - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name) 
 - [What is a Domain Name? - Cloudflare](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
 - [Domain Name System - Wiki](https://en.wikipedia.org/wiki/Domain_Name_System)
+- [What is DNS - Cloudflare](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 
 ### Videos
 - [What is a Domain Name? - A Beginners Guide to How Domain Names Work! - Create a Pro Website](https://youtu.be/Y4cRx19nhJk)
+- [DNS Records for Newbies - How To Manage Website Records - OffsproutTV](https://youtu.be/YV5tkQYcvfg)
 
 ## What it Hosting?
 
