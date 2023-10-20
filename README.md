@@ -62,7 +62,8 @@ Domain names, like 'google.com' or 'facebook.com,' provide user-friendly access 
 - [What is a Domain Name? - A Beginners Guide to How Domain Names Work! - Create a Pro Website](https://youtu.be/Y4cRx19nhJk)
 - [DNS Records for Newbies - How To Manage Website Records - OffsproutTV](https://youtu.be/YV5tkQYcvfg)
 
-## What it Hosting?
+## What is Hosting?
+Host system is any networked computer that provides services to other systems or users.
 
 ### Articles and Documentation
 - [What is Web Hosting - Hostinger](https://www.hostinger.com/tutorials/what-is-web-hosting/)
