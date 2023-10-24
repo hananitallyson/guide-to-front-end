@@ -5,6 +5,7 @@ Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento fro
 
 ## Summary
 - [How does the Internet works?](#how-does-the-internet-works?)
+- [What is Browsers and How they work?](#what-is-browsers-and-how-they-work?)
 
 ## How does the Internet works?
 The internet is a global network of interconnected computers that communicate using standardized protocols.
