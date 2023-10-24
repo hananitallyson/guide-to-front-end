@@ -10,6 +10,8 @@ Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento fro
 - [What is Hosting?](#what-is-hosting)
 - [What is Browsers and How they work?](#what-is-browsers-and-how-they-work)
 
+---
+
 ## How does the Internet works?
 The internet is a global network of interconnected computers that communicate using standardized protocols.
 
