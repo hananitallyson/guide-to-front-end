@@ -5,6 +5,9 @@ Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento fro
 
 ## Summary
 - [How does the Internet works?](#how-does-the-internet-works)
+- [What is HTTP?](#what-is-http)
+- [What is Domain Name and DNS?](#what-is-domain-name-and-dns)
+- [What is Hosting?](#what-is-hosting)
 - [What is Browsers and How they work?](#what-is-browsers-and-how-they-work)
 
 ## How does the Internet works?
