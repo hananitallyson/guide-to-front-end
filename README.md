@@ -83,6 +83,7 @@ Host system is any networked computer that provides services to other systems or
 - [Where to Host a Fullstack Project on a Budget - Ben Awad](https://youtu.be/Kx_1NYYJS7Q)
 
 ## What is Browsers and How they work?
+A web browser is a software tool that lets users access and view web content through a graphical interface. It communicates with web servers using protocols like HTTP and relies on DNS to translate domain names into IP addresses for web content retrieval. Browsers are crucial for internet navigation.
 
 ### Articles and Documentation
 - [How browsers work - web.dev](https://web.dev/articles/howbrowserswork)
