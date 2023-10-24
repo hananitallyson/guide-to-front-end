@@ -4,11 +4,11 @@ This documentation is a personal learning journey in front-end development. Here
 Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento front-end. Aqui, eu reuno uma coleção de artigos, documentações e vídeos relacionados a diferentes tópicos que estou estudando. O objetivo é criar um recurso aberto para que outras pessoas possam aprender e revisar esses tópicos de forma mais organizada. Além de servir para mim mesmo como uma maneira de se motivar a ler e estudar mais sobre cada um desses assuntos.
 
 ## Summary
-- [How does the Internet works?](#how-does-the-internet-works)
-- [What is HTTP?](#what-is-http)
-- [What is Domain Name and DNS?](#what-is-domain-name-and-dns)
-- [What is Hosting?](#what-is-hosting)
-- [What is Browsers and How they work?](#what-is-browsers-and-how-they-work)
+1. [How does the Internet works?](#how-does-the-internet-works)
+2. [What is HTTP?](#what-is-http)
+3. [What is Domain Name and DNS?](#what-is-domain-name-and-dns)
+4. [What is Hosting?](#what-is-hosting)
+5. [What is Browsers and How they work?](#what-is-browsers-and-how-they-work)
 
 ---
 
