@@ -10,12 +10,10 @@ Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento fro
 4. [What is Hosting?](#what-is-hosting)
 5. [What is Browsers and How they work?](#what-is-browsers-and-how-they-work)
 
----
-
-## How does the Internet works?
+# How does the Internet works?
 The internet is a global network of interconnected computers that communicate using standardized protocols.
 
-### Articles and Documentation
+## Articles and Documentation
 - [How does internet work - cs.fyi](https://cs.fyi/guide/how-does-internet-work)
 - [How does the Internet work? - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 - [How the web works - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
@@ -25,7 +23,7 @@ The internet is a global network of interconnected computers that communicate us
 - [Client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
 - [Handshake (computing) - Wiki](https://en.wikipedia.org/wiki/Handshake_(computing))
 
-### Videos
+## Videos
 - [What is the internet? - Code.org](https://youtu.be/Dxcc6ycZ73M)
 - [How Does the Internet Work? - Glad You Asked S1](https://youtu.be/TNQsmPf24go)
 - [How the Internet Works in 5 Minutes - Aaron](https://youtu.be/7_LPdttKXPc)
@@ -36,10 +34,10 @@ The internet is a global network of interconnected computers that communicate us
 - [The Internet: Packets, Routing & Reliability - Code.org](https://youtu.be/AYdF7b3nMto)
 - [The Internet: HTTP & HTML](https://youtu.be/kBXQZMmiA4s)
 
-## What is HTTP?
+# What is HTTP?
 HTTP is an application layer protocol used for communication between clients and servers, following a client-server model. It's a stateless protocol, meaning servers don't retain information between requests. But it's not only this.
 
-### Articles and Documentation
+## Articles and Documentation
 - [Everything you need to know about HTTP - cs.fyi](https://cs.fyi/guide/http-in-depth)
 - [What is HTTP? - Cloudflare](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
 - [HTTP Overview - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
@@ -54,41 +52,41 @@ HTTP is an application layer protocol used for communication between clients and
 - [Request-response - Wiki](https://en.wikipedia.org/wiki/Request%E2%80%93response)
 - [RFC 9000 QUIC: A UDP-Based Multiplexed and Secure Transport - J. Iyengar and M. Thomson](https://www.rfc-editor.org/rfc/rfc9000.html)
 
-### Videos
+## Videos
 - [HTTP Crash Course & Exploration - Traversy Media](https://youtu.be/iYM2zFP3Zn0)
 - [What are HTTP requests? - Codecademy](https://youtu.be/-Zea7GB2OwA)
 
-## What is Domain Name and DNS?
+# What is Domain Name and DNS?
 Domain names, like 'google.com' or 'facebook.com,' provide user-friendly access to websites. The Domain Name System (DNS) translates these names into IP addresses.
 
-### Articles and Documentation
+## Articles and Documentation
 - [What is a Domain Name? - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name) 
 - [What is a Domain Name? - Cloudflare](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
 - [Domain Name System - Wiki](https://en.wikipedia.org/wiki/Domain_Name_System)
 - [What is DNS - Cloudflare](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 
-### Videos
+## Videos
 - [What is a Domain Name? - A Beginners Guide to How Domain Names Work! - Create a Pro Website](https://youtu.be/Y4cRx19nhJk)
 - [DNS Records for Newbies - How To Manage Website Records - OffsproutTV](https://youtu.be/YV5tkQYcvfg)
 
-## What is Hosting?
+# What is Hosting?
 Host system is any networked computer that provides services to other systems or users.
 
-### Articles and Documentation
+## Articles and Documentation
 - [What is Web Hosting - Hostinger](https://www.hostinger.com/tutorials/what-is-web-hosting/)
 
-### Videos
+## Videos
 - [What Is Web Hosting? Explained - Pickaweb.co.uk](https://youtu.be/htbY9-yggB0)
 - [Different Types of Web Hosting Explained! | Shared Hosting vs. VPS Hosting vs. Dedicated Server - Craylor Made](https://youtu.be/AXVZYzw8geg)
 - [Where to Host a Fullstack Project on a Budget - Ben Awad](https://youtu.be/Kx_1NYYJS7Q)
 
-## What is Browsers and How they work?
+# What is Browsers and How they work?
 A web browser is a software tool that lets users access and view web content through a graphical interface. It communicates with web servers using protocols like HTTP and relies on DNS to translate domain names into IP addresses for web content retrieval.
 
-### Articles and Documentation
+## Articles and Documentation
 - [How browsers work - web.dev](https://web.dev/articles/howbrowserswork)
 - [https://www.browserstack.com/guide/browser-rendering-engine - BrowserStack](https://www.browserstack.com/guide/browser-rendering-engine)
 - [Populating the page: how browsers work - MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 
-### Videos
+## Videos
 - [How Do Web Browsers Work? - Dave Xiang](https://youtu.be/WjDrMKZWCt0)
