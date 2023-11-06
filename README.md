@@ -90,3 +90,4 @@ A web browser is a software tool that lets users access and view web content thr
 
 ## Videos
 - [How Do Web Browsers Work? - Dave Xiang](https://youtu.be/WjDrMKZWCt0)
+- [Kruno: How browsers work | JSUnconf 2017 - JSUnconf](https://youtu.be/0IsQqJ7pwhw)
