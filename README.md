@@ -91,3 +91,15 @@ A web browser is a software tool that lets users access and view web content thr
 ## Videos
 - [How Do Web Browsers Work? - Dave Xiang](https://youtu.be/WjDrMKZWCt0)
 - [Kruno: How browsers work | JSUnconf 2017 - JSUnconf](https://youtu.be/0IsQqJ7pwhw)
+
+# What is HTML?
+HTML stands for HyperText Markup Language. It is used in the interface and provides structure to web pages, which consists of a series of elements that can be stylized by using CSS and interacted with using JavaScript.
+
+## Articles and Documentation
+- [HTML Introduction - W3Schools]([https://web.dev/articles/howbrowserswork](https://www.w3schools.com/html/html_intro.asp))
+- [Getting Started with HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [Learn HTML - web.dev](https://web.dev/learn/html)
+
+## Videos
+- [HTML Full Course - Build a Website Tutorial](https://youtu.be/pQN-pnXPaVg)
+- [HTML Tutorial for Beginners: HTML Crash Course](https://youtu.be/qz0aGYrrlhU)
