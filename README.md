@@ -9,6 +9,7 @@ Esta documentação é uma jornada pessoal de aprendizado no desenvolvimento fro
 3. [What is Domain Name and DNS?](#what-is-domain-name-and-dns)
 4. [What is Hosting?](#what-is-hosting)
 5. [What is Browsers and How they work?](#what-is-browsers-and-how-they-work)
+6. [What is HTML?](#what-is-html)
 
 # How does the Internet works?
 The internet is a global network of interconnected computers that communicate using standardized protocols.
