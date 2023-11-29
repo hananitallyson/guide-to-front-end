@@ -100,6 +100,7 @@ HTML stands for HyperText Markup Language. It is used in the interface and provi
 - [HTML Introduction - W3Schools](https://www.w3schools.com/html/html_intro.asp)
 - [Getting Started with HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - [Learn HTML - web.dev](https://web.dev/learn/html)
+- [HTML Tutorial](https://www.scaler.com/topics/html/)
 
 ## Videos
 - [HTML Full Course - Build a Website Tutorial](https://youtu.be/pQN-pnXPaVg)
